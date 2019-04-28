@@ -1,4 +1,4 @@
-# Mining_Apriori
+# Mining_Apriori_1
 Goal is to find rules using Apriori in CreditCardPromotion dataset.
 
 ## Support/Confidence
