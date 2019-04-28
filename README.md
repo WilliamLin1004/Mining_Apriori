@@ -1,5 +1,5 @@
 # Mining_Apriori
-Goal is to find rules using Apriori.
+Goal is to find rules using Apriori in CreditCardPromotion dataset.
 
 ## Support/Confidence
 Support and confidence are the two most important measurements for finding association rules. <br>
